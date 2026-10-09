@@ -1,0 +1,13 @@
+#carousel{
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+#carouselheading{
+  text-align: center;
+  margin-top: 15px;
+  font-size: 30px;
+  color: brown;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
